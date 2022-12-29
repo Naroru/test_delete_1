@@ -1,3 +1,5 @@
 public class Test {
-  int a = 7;
+
+  int a = 6;
+
 }
